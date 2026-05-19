@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zahidcs.github.io/sitemap_index.xml
+Sitemap: https://zahidcs.github.io/sitemap.xml
